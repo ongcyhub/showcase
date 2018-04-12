@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to OCY Showcase
 
-You can use the [editor on GitHub](https://github.com/ongcyhub/showcase/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+This is my showcase of my pass works that I habve done in my previous roles.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
